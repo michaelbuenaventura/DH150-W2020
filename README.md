@@ -30,8 +30,8 @@ Severity rating: 1
 
 **Evaluation**
 
-	Most of the language is intuitive. For example, “sort” sorts entries in a certain way and “filter” allows the user to filter entries. However, surveys are labelled as “apps” which doesn’t make a lot of sense on the user-end. Additionally, it is not immediately clear what the action “synchronize” does.
-	In terms of order of information, the app is a little out of sorts. The app gives a nice summary of all surveys on the homepage. When viewing a summary of responses, the first thing that appears is a map of responses. This is counterintuitive as researchers would probably prefer a searchable list of all responses, which takes an extra step to get to.
+Most of the language is intuitive. For example, “sort” sorts entries in a certain way and “filter” allows the user to filter entries. However, surveys are labelled as “apps” which doesn’t make a lot of sense on the user-end. Additionally, it is not immediately clear what the action “synchronize” does.
+In terms of order of information, the app is a little out of sorts. The app gives a nice summary of all surveys on the homepage. When viewing a summary of responses, the first thing that appears is a map of responses. This is counterintuitive as researchers would probably prefer a searchable list of all responses, which takes an extra step to get to.
 
 Severity rating: 2
 
@@ -42,7 +42,7 @@ Severity rating: 2
 
 **Evaluation**
 
-	Users are able to exit out of unwanted situations. This is made possible with a cancel button placed in the upper left-hand corner. Users can also save unfinished survey entries as drafts. Users are prevented from saving entries that don’t fill out required fields and allow users to save these entries as drafts.
+Users are able to exit out of unwanted situations. This is made possible with a cancel button placed in the upper left-hand corner. Users can also save unfinished survey entries as drafts. Users are prevented from saving entries that don’t fill out required fields and allow users to save these entries as drafts.
 Severity rating: 1
 
 ### 4. Consistency and standards 
@@ -51,7 +51,7 @@ Severity rating: 1
 
 **Evaluation**
 
-	Again, the words “synchronize” and “app” can be confusing to users. It is not immediately apparent that “synchronize” means to match data up with the desktop version’s data and “app” means a data collection instrument. More significantly, there is a “map area” button that does not do anything. Navigating to the homepage is also very difficult, as there is no home icon. 
+Again, the words “synchronize” and “app” can be confusing to users. It is not immediately apparent that “synchronize” means to match data up with the desktop version’s data and “app” means a data collection instrument. More significantly, there is a “map area” button that does not do anything. Navigating to the homepage is also very difficult, as there is no home icon. 
 
 Severity rating: 3
 
@@ -60,7 +60,7 @@ Severity rating: 3
 
 **Evaluation**
 
-	Users are prevented from saving null survey entries which is a plus. However, users might have trouble finding surveys that match their needs. While the survey templates provided are searchable, they are around 50 of them. The user can easily get lost in testing many of the 50 surveys to find the best fit.
+Users are prevented from saving null survey entries which is a plus. However, users might have trouble finding surveys that match their needs. While the survey templates provided are searchable, they are around 50 of them. The user can easily get lost in testing many of the 50 surveys to find the best fit.
 
 Severity rating: 2
 
@@ -71,7 +71,7 @@ Severity rating: 2
 
 **Evaluation**
 
-	The app offers several survey templates such as a “Customer Satisfaction” survey and a “Incident Report Form”. Though these are not customizable in the mobile app, these templates allow users to choose surveys that are close to their needs. In fact, users cannot start surveys from scratch in the app.
+The app offers several survey templates such as a “Customer Satisfaction” survey and a “Incident Report Form”. Though these are not customizable in the mobile app, these templates allow users to choose surveys that are close to their needs. In fact, users cannot start surveys from scratch in the app.
 
 Severity rating: 1
 
@@ -81,7 +81,7 @@ Severity rating: 1
 
 **Evaluation**
 
-	The homepage is not editable and frequently-used surveys don’t seem to get priority in the homepage. Survey templates cannot be editing in-app according to users’ needs. Additionally, the app doesn’t tailor towards whatever industry the user might be in, though there seems to be an opportunity for this. Surveys cannot be duplicated either, which could be valuable to people distributing surveys to multiple arms of an experiment.
+The homepage is not editable and frequently-used surveys don’t seem to get priority in the homepage. Survey templates cannot be editing in-app according to users’ needs. Additionally, the app doesn’t tailor towards whatever industry the user might be in, though there seems to be an opportunity for this. Surveys cannot be duplicated either, which could be valuable to people distributing surveys to multiple arms of an experiment.
 
 Severity rating: 3
 
@@ -92,7 +92,7 @@ Severity rating: 3
 
 **Evaluation**
 
-	There are words everywhere. The homepage is filled with long survey titles and descriptions. The settings are spread out over many buttons. Survey template titles and descriptions are too long for their designated spaces.
+There are words everywhere. The homepage is filled with long survey titles and descriptions. The settings are spread out over many buttons. Survey template titles and descriptions are too long for their designated spaces.
 
 Severity rating: 3 
 
@@ -103,7 +103,7 @@ Severity rating: 3
 
 **Evaluation**
 
-	Again, users are prevented from saving incomplete surveys and are guided into saving them as drafts. 
+Again, users are prevented from saving incomplete surveys and are guided into saving them as drafts. 
 
 Severity rating: 1
 
@@ -114,6 +114,6 @@ Severity rating: 1
 
 **Evaluation**
 
-	There is no help nor FAQ’s page. There is a “contact support” button, but it leads to a browser page that is clearly not mobile-friendly.
+There is no help nor FAQ’s page. There is a “contact support” button, but it leads to a browser page that is clearly not mobile-friendly.
 
 Severity rating: 2
