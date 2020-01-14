@@ -19,8 +19,8 @@ By  Michael Buenaventura	Date  1/10/ 2020
 
 **Evaluation**
 
-	This app does a solid job of letting users know what the system is doing. System status information is displayed after actions that require significant processing. Such information will appear either in a thin banner on the top of the screen or a box in the middle of the screen. For example, if I want to synchronize my data, a thin bar will a appear at the top indicating the progress of synchronization. Quick actions, such as navigating to the settings page, do not show progress information as this would be unnecessary.
-	This app could be improved in this dimension if it gave notification about when surveys or entries are successfully added. When this occurs, the surveys or entries appear in the respective lists, but without notification. 
+This app does a solid job of letting users know what the system is doing. System status information is displayed after actions that require significant processing. Such information will appear either in a thin banner on the top of the screen or a box in the middle of the screen. For example, if I want to synchronize my data, a thin bar will a appear at the top indicating the progress of synchronization. Quick actions, such as navigating to the settings page, do not show progress information as this would be unnecessary.
+This app could be improved in this dimension if it gave notification about when surveys or entries are successfully added. When this occurs, the surveys or entries appear in the respective lists, but without notification. 
 
 Severity rating: 1
 
