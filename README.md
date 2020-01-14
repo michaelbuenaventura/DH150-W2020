@@ -14,8 +14,8 @@ I want to contribute to the human-subjects research community with my UX design.
 By  Michael Buenaventura	Date  1/10/ 2020
 
 1. Visibility of system status 
-	Always keep users informed about what is going on.
-	Provide appropriate feedback within reasonable time. 
+*	Always keep users informed about what is going on.
+*	Provide appropriate feedback within reasonable time. 
 
 Evaluation
 This app does a solid job of letting users know what the system is doing. System status information is displayed after actions that require significant processing. Such information will appear either in a thin banner on the top of the screen or a box in the middle of the screen. For example, if I want to synchronize my data, a thin bar will a appear at the top indicating the progress of synchronization. Quick actions, such as navigating to the settings page, do not show progress information as this would be unnecessary.
@@ -24,8 +24,8 @@ This app does a solid job of letting users know what the system is doing. System
 Severity rating: 1
 
 2. Match between system and the real world 
-	Speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. 
-	Follow real-world conventions, making information appear in a natural and logical order. 
+*	Speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. 
+*	Follow real-world conventions, making information appear in a natural and logical order. 
 
 Evaluation
 	Most of the language is intuitive. For example, “sort” sorts entries in a certain way and “filter” allows the user to filter entries. However, surveys are labelled as “apps” which doesn’t make a lot of sense on the user-end. Additionally, it is not immediately clear what the action “synchronize” does.
@@ -34,17 +34,17 @@ Evaluation
 Severity rating: 2
 
 3. User control and freedom 
-	Users often choose system functions by mistake.
-	Provide a clearly marked "out" to leave an unwanted state without having to go through an extended dialogue. 
-	Support undo and redo. 
+*	Users often choose system functions by mistake.
+*	Provide a clearly marked "out" to leave an unwanted state without having to go through an extended dialogue. 
+*	Support undo and redo. 
 
 Evaluation
 Users are able to exit out of unwanted situations. This is made possible with a cancel button placed in the upper left-hand corner. Users can also save unfinished survey entries as drafts. Users are prevented from saving entries that don’t fill out required fields and allow users to save these entries as drafts.
 Severity rating: 1
 
 4. Consistency and standards 
-	Users should not have to wonder whether different words, situations, or actions mean the same thing. 
-	Follow platform conventions. 
+*	Users should not have to wonder whether different words, situations, or actions mean the same thing. 
+*	Follow platform conventions. 
 
 Evaluation
 Again, the words “synchronize” and “app” can be confusing to users. It is not immediately apparent that “synchronize” means to match data up with the desktop version’s data and “app” means a data collection instrument. More significantly, there is a “map area” button that does not do anything. Navigating to the homepage is also very difficult, as there is no home icon. 
@@ -52,7 +52,7 @@ Again, the words “synchronize” and “app” can be confusing to users. It i
 Severity rating: 3
 
 5. Error prevention 
-	Even better than good error messages is a careful design which prevents a problem from occurring in the first place. 
+*	Even better than good error messages is a careful design which prevents a problem from occurring in the first place. 
 
 Evaluation
 Users are prevented from saving null survey entries which is a plus. However, users might have trouble finding surveys that match their needs. While the survey templates provided are searchable, they are around 50 of them. The user can easily get lost in testing many of the 50 surveys to find the best fit.
