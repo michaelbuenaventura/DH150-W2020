@@ -7,6 +7,8 @@ I want to contribute to the human-subjects research community with this project.
 ## [Fulcrum](https://web.fulcrumapp.com/)
 ### Fulcrum is a data-collection app designed to be used by people who want to gather information via surveys and forms. From car inspection forms to customer satisfaction surveys, the app is meant to be applicable to a wide variety of industries. Users can create multiple surveys and track user responses. My analysis is strictly on the mobile-app version of Fulcrum.
 
+![Fulcrum_Sample](https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Ffulcrum-mobile-data-collector%2Fid467758260&psig=AOvVaw2whT1EnmEKCGrv31TySow4&ust=1579075763803000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDoluTRgucCFQAAAAAdAAAAABBe)
+
 ### Overall, Fulcrum is a solid app. It constantly provides users with useful status information and prevents users from performing unwanted tasks, such as saving an invalid survey entry. However, the experience could be improved, as the app's language, cluttered interface, flexibility, and support could all be improved.
 
 ## Heuristics Evaluation of Fulcrum
