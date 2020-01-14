@@ -1,6 +1,5 @@
-# DH150-W2020
+# Data Net
 
-##test
-1
-2
-3
+## Michael Buenaventura
+## Digital Humanities 150 - Winter 2020
+
