@@ -2,7 +2,7 @@
 
 ## Michael Buenaventura, Digital Humanities 150 - Winter 2020, Professor Cho
 
-I want to contribute to the human-subjects research community with my UX design. Much of research on humans requires data collection via surveys and forms. Creating, distributing, and analyzing these instruments take up a significant amount of time in the research process. Making this process more efficient through app-based distrubition can save both researchers and participants valuable time and energy.
+I want to contribute to the human-subjects research community with this project. Much of research on humans requires data collection via surveys and forms. Creating, distributing, and analyzing these instruments take up a significant amount of time in the research process. Making this process more efficient through app-based distrubition can save both researchers and participants valuable time and energy.
 
 ## [Fulcrum](https://web.fulcrumapp.com/)
 ### Fulcrum is a data-collection app designed to be used by people who want to gather information via surveys and forms. From car inspection forms to customer satisfaction surveys, the app is meant to be applicable to a wide variety of industries. Users can create multiple surveys and track user responses. My analysis is strictly on the mobile-app version of Fulcrum.
