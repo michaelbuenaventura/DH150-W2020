@@ -127,7 +127,7 @@ Severity rating: 2
 
 ### Overall, QuickTapSurvey is well put-together and only needs a few minor tweaks. It presents information in an intuitive and concise sense. It also provides adequate help and support. However, the app could be more customizable to fit frequent-users' needs. Adding features, such as the ability to create and edit survey instruments in-app could optimize the experience. 
 
-## Heuristics Evaluation of Fulcrum
+## Heuristics Evaluation of QuickTapSurvey
 
 By  Michael Buenaventura	Date  1/10/ 2020
 
