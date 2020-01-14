@@ -13,7 +13,7 @@ I want to contribute to the human-subjects research community with my UX design.
 
 By  Michael Buenaventura	Date  1/10/ 2020
 
-1. Visibility of system status 
+### 1. Visibility of system status 
 *	Always keep users informed about what is going on.
 *	Provide appropriate feedback within reasonable time. 
 
@@ -24,7 +24,7 @@ By  Michael Buenaventura	Date  1/10/ 2020
 
 Severity rating: 1
 
-2. Match between system and the real world 
+### 2. Match between system and the real world 
 *	Speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. 
 *	Follow real-world conventions, making information appear in a natural and logical order. 
 
@@ -35,7 +35,7 @@ Severity rating: 1
 
 Severity rating: 2
 
-3. User control and freedom 
+### 3. User control and freedom 
 *	Users often choose system functions by mistake.
 *	Provide a clearly marked "out" to leave an unwanted state without having to go through an extended dialogue. 
 *	Support undo and redo. 
@@ -45,7 +45,7 @@ Severity rating: 2
 	Users are able to exit out of unwanted situations. This is made possible with a cancel button placed in the upper left-hand corner. Users can also save unfinished survey entries as drafts. Users are prevented from saving entries that don’t fill out required fields and allow users to save these entries as drafts.
 Severity rating: 1
 
-4. Consistency and standards 
+### 4. Consistency and standards 
 *	Users should not have to wonder whether different words, situations, or actions mean the same thing. 
 *	Follow platform conventions. 
 
@@ -55,7 +55,7 @@ Severity rating: 1
 
 Severity rating: 3
 
-5. Error prevention 
+### 5. Error prevention 
 *	Even better than good error messages is a careful design which prevents a problem from occurring in the first place. 
 
 **Evaluation**
@@ -64,7 +64,7 @@ Severity rating: 3
 
 Severity rating: 2
 
-6. Recognition rather than recall 
+### 6. Recognition rather than recall 
 	Make objects, actions, and options visible. 
 	User should not have to remember information from one part of the dialogue to another. 
 	Instructions for use of the system should be visible or easily retrievable whenever appropriate. 
@@ -75,7 +75,7 @@ Severity rating: 2
 
 Severity rating: 1
 
-7. Flexibility and efficiency of use 
+### 7. Flexibility and efficiency of use 
 *	Accelerators -- unseen by the novice user -- may often speed up the interaction for the expert user so that the system can cater to both inexperienced and experienced users. 
 *	Allow users to tailor frequent actions. 
 
@@ -86,7 +86,7 @@ Severity rating: 1
 Severity rating: 3
 
 
-8. Aesthetic and minimalist design 
+### 8. Aesthetic and minimalist design 
 *	Dialogues should not contain information which is irrelevant or rarely needed. 
 *	Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility. 
 
@@ -96,7 +96,7 @@ Severity rating: 3
 
 Severity rating: 3 
 
-9. Help users recognize, diagnose, and recover from errors 
+### 9. Help users recognize, diagnose, and recover from errors 
 *	Expressed in plain language (no codes)
 *	Precisely indicate the problem
 *	Constructively suggest a solution. 
@@ -106,6 +106,8 @@ Severity rating: 3
 	Again, users are prevented from saving incomplete surveys and are guided into saving them as drafts. 
 
 Severity rating: 1
+
+### 10. Help and documentation 
 
 *	Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. 
 *	Help  information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large. 
