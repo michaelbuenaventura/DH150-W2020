@@ -9,7 +9,7 @@ I want to contribute to the human-subjects research community with this project.
 
 ![Fulcrum_Sample](FulcrumSample.jpg)
 
-### Overall, Fulcrum is a solid app. It constantly provides users with useful status information and prevents users from performing unwanted tasks, such as saving an invalid survey entry. However, the experience could be improved, as the app's language, cluttered interface, flexibility, and support could all be improved.
+### Overall, Fulcrum is a solid app, but it should be restructured in order to reach its full potential. It constantly provides users with useful status information and prevents users from performing unwanted tasks, such as saving an invalid survey entry. However, the experience could be improved, as the app's language, cluttered interface, flexibility, and support could all be improved.
 
 ## Heuristics Evaluation of Fulcrum
 
@@ -123,7 +123,7 @@ Severity rating: 2
 ## [QuickTapSurvey](https://www.quicktapsurvey.com/)
 ### Fulcrum is a data-collection app designed to be used by people who want to gather information via surveys and forms. From car inspection forms to customer satisfaction surveys, the app is meant to be applicable to a wide variety of industries. Users can create multiple surveys and track user responses. My analysis is strictly on the mobile-app version of Fulcrum.
 
-![Fulcrum_Sample](FulcrumSample.jpg)
+![QuickTapSample](QuickTapSample.jpg)
 
 ### Overall, Fulcrum is a solid app, but should be restructured to reach its full potential. It adequately provides users with useful status information and prevents users from performing unwanted tasks, such as saving an invalid survey entry. However, the experience could be improved, as the app's language, cluttered interface, flexibility, and support could all be improved.
 
