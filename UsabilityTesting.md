@@ -7,9 +7,9 @@ more features could be added to make the app more flexible and adaptable to freq
 I am following up with a usability test of both the desktop website and app versions of QuickTapSurvey. The application is meant
 to use the two in tandem. This way, I am able to test the creation, distribution, and analyes of surveys.
 
-##[Survey](https://docs.google.com/forms/d/e/1FAIpQLScn6cD8aCyQecgqy3aTtiWPFZLFo8ZbpqK-_gQKpY-TIDSrhA/viewform?usp=sf_link)
+## [Survey](https://docs.google.com/forms/d/e/1FAIpQLScn6cD8aCyQecgqy3aTtiWPFZLFo8ZbpqK-_gQKpY-TIDSrhA/viewform?usp=sf_link)
 
-##[Usability Test Video](https://www.youtube.com/watch?v=Bn99lrObaiM)
+## [Usability Test Video](https://www.youtube.com/watch?v=Bn99lrObaiM)
 
 
 ### Our test revealed some minor issues with the app. Our participant was naïve to the app, but was familiar with research and
