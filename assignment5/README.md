@@ -44,3 +44,5 @@ I had the subject
 These are two common tasks in the research world. While this task may seem simple
 and easy, researchers must do these quite often. Having a seamless way to create a survey and mass-send it is crucial for efficient research.
 
+### Observation Guide
+Here is a link to the 
