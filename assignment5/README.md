@@ -1,6 +1,6 @@
 # Contextual Inquiry
 
-## Design Challnge
+## Design Challenge
 
 My project would generally support research activity done by human-subjects researchers. More specifically,
 my project aims to streamline the data-collection process by making creating, distributing, answering, and 
