@@ -45,4 +45,17 @@ These are two common tasks in the research world. While this task may seem simpl
 and easy, researchers must do these quite often. Having a seamless way to create a survey and mass-send it is crucial for efficient research.
 
 ### Observation Guide
-Here is a link to the 
+[Link](https://docs.google.com/document/d/1-UfLhyuVn5jMPZylwRSEMiFyRAmHWQP5Ce8QoBQzobE/edit?usp=sharing) to the contextual inquiry interview script.
+
+### Audio File
+Here is the interview [recording](/ContextualAudio.mp3).
+
+### Transcript
+Here is the interview [transcript](/ContextualTranscript.txt).
+
+### Reflection
+There are takeways concerning both my interview style and the project itself.
+
+In terms of interviewing, I felt that my questions were too broad and that I led the users too often. My interviewee had to think long and hard about most of my questions. I felt that there was too much silence due to the nature of my questions. Narrowing down the focus of my questions could add clarity, especially for the interviewee. To cope with this silence, I felt that I led too much. For example, I would ask "How has this app worked for you?" and follow with "Have you had any compatibility issues with other apps". This adds some bias. I should pare down on this as well if I want to get non-biased responses.
+
+In terms of analyzing the actual data, I found two prominent themes: desire to get away from repetition and desire to move towards an all-in-one app. When it comes to creating surveys, repetition is almost inevitable - researchers need the same insights on different products or different arms of a study. The current solution involves a lot of copy-pasting and could be made much more efficient. A sort of "find and replace" function could be useful when designing surveys. Additionally, researchers look for an all-in-one app. Google Forms and Survey Monkey are leaders in data collection because they allow for creation, distribution, AND analyis. However, the anaylsis phase is typically taken a step further to other software (Voyant, R, etc.). Having advanced insights within a data-collection app could be very attractive to researchers.
