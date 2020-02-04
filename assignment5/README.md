@@ -48,10 +48,10 @@ and easy, researchers must do these quite often. Having a seamless way to create
 [Link](https://docs.google.com/document/d/1-UfLhyuVn5jMPZylwRSEMiFyRAmHWQP5Ce8QoBQzobE/edit?usp=sharing) to the contextual inquiry interview script.
 
 ### Audio File
-Here is the interview [recording](/ContextualAudio.mp3).
+Here is the interview [recording](ContextualAudio.mp3).
 
 ### Transcript
-Here is the interview [transcript](/ContextualTranscript.txt).
+Here is the interview [transcript](ContextualTranscript.txt).
 
 ### Reflection
 There are takeways concerning both my interview style and the project itself.
