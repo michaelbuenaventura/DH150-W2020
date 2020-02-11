@@ -75,15 +75,15 @@ responsibilities:
 
 image
 
-## Name: Jack Gaston, PhD
-## Title(s): Psychology Department Head, Duke University
-## Demographics
+#### Name: Jack Gaston, PhD
+#### Title(s): Psychology Department Head, Duke University
+#### Demographics
 * 58 years old
 * Married
 * White American
 * PhD in Social Psychology
 
-## Goals and Tasks
+#### Goals and Tasks
 Dr. Gaston is a well-established researcher at Duke University. He has published dozens of papers and has been cited hundreds
 of times. Today, he is the Principal Investigator of his own lab that deals with mob-mentality. He is in charge of the most
 high-level tasks, such as:
@@ -92,14 +92,14 @@ high-level tasks, such as:
 * Having the final say about insights on collected data
 * Overseeing all research activity of research assistants, grad students, etc.
 
-## Environment
-### Goal Barriers
+#### Environment
+##### Goal Barriers
 * He is very traditional with his methods. He is not super tech-savvy and sometimes likes disrtibuting paper surveys.
 * He is conservative when it comes to trying new methods and prefers "tried and true" processes.
 * He is a very hands-off worker and works more as a task manager than a researcher.
-### Goal Facilitators
+##### Goal Facilitators
 * He is well-funded by both grants and Duke University, so he has access to various applications and resources
 * He is well respected among his colleagues, and what he says goes in his lab.
-## Quote
+#### Quote
 "Can you code that stack of surveys into Excel for me?"
-## Empathy Map
+#### Empathy Map
