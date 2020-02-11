@@ -35,7 +35,7 @@ accomplish various tasks assigned to her classes and research lab. These tasks i
 #### Quote
 "Which participants do you want me to send an email reminder to?"
 #### Empathy Map
-![ChristineEmpathyMap](ChristineSP.jpg)
+![ChristineEmpathyMap](assignment6/ChristineSP.JPG)
 
 ### Persona: Silicon Valley Industry Researcher
 
