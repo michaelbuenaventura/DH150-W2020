@@ -33,7 +33,7 @@ accomplish various tasks assigned to her classes and research lab. These tasks i
 * She talks in-depth with associate researchers about the best methods and tools.
 * She is quite tech-savvy, as she grew up a frequent cell-phone and computer user.
 #### Quote
-"?"
+"Which participants do you want me to send an email reminder to?"
 #### Empathy Map
 
 
@@ -67,6 +67,7 @@ responsibilities:
 * He is young and full of both energy and caffeine. His office is open around the clock and he is encouraged to stay overtime.
 * His company pays for whatever software he needs, as long as he fills out a request for it.
 #### Quote
+"Please get me the data pull by end-of-business-day today so I can start my analyses tonight.
 #### Empathy Map
 
 
@@ -93,10 +94,12 @@ high-level tasks, such as:
 
 ## Environment
 ### Goal Barriers
-* He is very traditional with his methods. He is not super tech-savvy and sometimes likes disrtibuting paper-surveys.
-* PROGESS LINE-------------------------------------------------
+* He is very traditional with his methods. He is not super tech-savvy and sometimes likes disrtibuting paper surveys.
+* He is conservative when it comes to trying new methods and prefers "tried and true" processes.
+* He is a very hands-off worker and works more as a task manager than a researcher.
 ### Goal Facilitators
-* She talks in-depth with associate researchers about the best methods and tools.
-* She is quite tech-savvy, as she grew up a frequent cell-phone and computer user.
+* He is well-funded by both grants and Duke University, so he has access to various applications and resources
+* He is well respected among his colleagues, and what he says goes in his lab.
 ## Quote
+"Can you code that stack of surveys into Excel for me?"
 ## Empathy Map
