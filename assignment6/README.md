@@ -42,7 +42,7 @@ accomplish various tasks assigned to her classes and research lab. These tasks i
 image
 
 #### Name: David Schwartz
-#### Title(s): Market Researcher, Alphabet
+#### Title(s): Market Researcher, Alphabet Inc.
 #### Demographics
 * 27 years old
 * Single
@@ -70,29 +70,31 @@ responsibilities:
 #### Empathy Map
 
 
-### Persona: 
+### Persona: Tenured Psychology Professor
 
 image
 
-## Name: 
-## Title(s): 
+## Name: Jack Gaston, PhD
+## Title(s): Psychology Department Head, Duke University
 ## Demographics
-* years old
-* 
+* 58 years old
+* Married
+* White American
+* PhD in Social Psychology
 
 ## Goals and Tasks
-Christine is highly motivated to learn as much as she can about research while in college. 
-As an undergraduate, she asks a lot of questions and explores using different tools to 
-accomplish various tasks assigned to her classes and research lab. These tasks include:
+Dr. Gaston is a well-established researcher at Duke University. He has published dozens of papers and has been cited hundreds
+of times. Today, he is the Principal Investigator of his own lab that deals with mob-mentality. He is in charge of the most
+high-level tasks, such as:
 
-* Creating and formatting digital surveys
-* Coding survey data
-* Sending survey notifications and reminders to participants
+* Making decisions on research methodology
+* Having the final say about insights on collected data
+* Overseeing all research activity of research assistants, grad students, etc.
 
 ## Environment
 ### Goal Barriers
-* She only has access to free or cheap research applicaitons.
-* She is only allowed to work on low-level tasks such as inputting survey answers and sending reminder emails.
+* He is very traditional with his methods. He is not super tech-savvy and sometimes likes disrtibuting paper-surveys.
+* PROGESS LINE-------------------------------------------------
 ### Goal Facilitators
 * She talks in-depth with associate researchers about the best methods and tools.
 * She is quite tech-savvy, as she grew up a frequent cell-phone and computer user.
