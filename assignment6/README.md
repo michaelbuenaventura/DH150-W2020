@@ -113,7 +113,7 @@ high-level tasks, such as:
 2. The new survey is for a control arm. It is to be entirely based off of an already-existing survey for the experimental arm. Everything in the new survey should be identical to the existing survey, except that every occurance of the word "democrat" should be replaced with "conservative".
 3. Instead of copying and pasting each question into a new survey, Christine uses DataNet's find and replace feature. First, she duplicates the experimental survey. She then proceeds to highlight every occurance of "democrat" and replace them with "conservative" in just a couple of clicks. She finishes this task and continues working on her personal project.
 #### Journey Map
-![FindJourneyMap](/assignment6/FindJourney.JPG)
+![VisJourneyMap](/assignment6/VisJourney.JPG)
 
 ### 2. Suggested Analyses
 #### Our persona is David Fontino. Her goal is to pump out as many market research projects as possible to move up the ranks of his industry job. He is in charge of data anaylses and creating presentations for higher-ups.
@@ -121,7 +121,7 @@ high-level tasks, such as:
 2. Since David didn't go to grad school, he typically struggles to decide on analysis types. He usually tries to Google which type of analysis to use or consults other team members. This takes a considerable amount of time.
 3. Luckily, DataNet has a built-in analysis suggester. The program recognized that there may be a significant effect produced if product preferences are measured across ethnicities. It recognizes the variable types and suggests running an ANOVA. David listens and is able to find significant differences between White and non-White product preferences.
 #### Journey Map
-![StatsJourneyMap](/assignment6/StatsJourney.JPG)
+![FindJourneyMap](/assignment6/FindJourney.JPG)
 
 ### 3. In-App Visualization
 #### Our persona is David Fontino. Her goal is to pump out as many market research projects as possible to move up the ranks of his industry job. He is in charge of data anaylses and creating presentations for higher-ups.
@@ -129,4 +129,4 @@ high-level tasks, such as:
 2. In the past, David would export his data to a visualization software, such as Tableau. This would take extra time and effort, as the data had to be formatted correctly and large datasets take a while to transfer.
 3. David instead uses DataNet's in-app visualization feature. With no need to export/clean data, David can create graphs within the app in just a few clicks. He creates these graphs, downloads them as interactive images, and uploads them to his slide deck. He now has time to practice his presentation.
 #### Journey Map
-![VisJourneyMap](/assignment6/VisJourney.JPG)
+![StatsJourneyMap](/assignment6/StatsJourney.JPG)
