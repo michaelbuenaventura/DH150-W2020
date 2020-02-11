@@ -35,7 +35,7 @@ accomplish various tasks assigned to her classes and research lab. These tasks i
 #### Quote
 "Which participants do you want me to send an email reminder to?"
 #### Empathy Map
-![ChristineEmpathyMap](assignment6/ChristineSP.JPG)
+![ChristineEmpathyMap](/assignment6/ChristineSP.JPG)
 
 ### Persona: Silicon Valley Industry Researcher
 
@@ -69,7 +69,7 @@ responsibilities:
 #### Quote
 "Please get me the data pull by end-of-business-day today so I can start my analyses tonight.
 #### Empathy Map
-![DavidEmpathyMap](DavidP.jpg)
+![DavidEmpathyMap](/assignment6/DavidP.JPG)
 
 ### Persona: Tenured Psychology Professor
 
@@ -103,7 +103,7 @@ high-level tasks, such as:
 #### Quote
 "Can you code that stack of surveys into Excel for me?"
 #### Empathy Map
-![JackEmpathyMap](JackP.jpg)
+![JackEmpathyMap](/assignment6/JackP.jpg)
 
 ## Scenarios
 
