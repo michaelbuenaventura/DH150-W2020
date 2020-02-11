@@ -103,7 +103,7 @@ high-level tasks, such as:
 #### Quote
 "Can you code that stack of surveys into Excel for me?"
 #### Empathy Map
-![JackEmpathyMap](/assignment6/JackP.jpg)
+![JackEmpathyMap](/assignment6/JackP.JPG)
 
 ## Scenarios
 
