@@ -6,7 +6,7 @@ The purpose of this page is to provide possible personas that would be concerned
 
 ### Persona: College-Aged Aspiring Researcher
 
-![ChristineImage](/assignment6/ChristineSantos.JPG)
+![ChristineImage](/assignment6/ChristineSantos.jpg)
 
 #### Name: Christine Santos
 #### Title(s): Undergraduate Sociology Major, Research Assistant, Florida State University
@@ -39,7 +39,7 @@ accomplish various tasks assigned to her classes and research lab. These tasks i
 
 ### Persona: Silicon Valley Industry Researcher
 
-![DavidImage](/assignment6/DavidFontino.JPEG)
+![DavidImage](/assignment6/DavidFontino.jpeg)
 
 #### Name: David Fontino
 #### Title(s): Market Researcher, Alphabet Inc.
@@ -73,7 +73,7 @@ responsibilities:
 
 ### Persona: Tenured Psychology Professor
 
-![JackImage](/assignment6/JackGaston.JPG)
+![JackImage](/assignment6/JackGaston.jpg)
 
 #### Name: Jack Gaston, PhD
 #### Title(s): Psychology Department Head, Duke University
