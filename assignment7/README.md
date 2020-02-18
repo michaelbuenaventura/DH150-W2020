@@ -17,7 +17,7 @@ specifically, we are analyzing consumers' interactions with the following featur
 
 ### Features
 1. A "Find and Replace" feature to quickly create surveys for "arms" of experiments.
-2. An "Anaylsis Suggester" that suggests analyses to be run that will produce significant results.
+2. An "Analysis Suggester" that suggests analyses to be run that will produce significant results.
 3. A "Visualizer" that allows for comprehensive, in-app visualizations to be made.
 
 ## Find and Replace
