@@ -22,23 +22,31 @@ specifically, we are analyzing consumers' interactions with the following featur
 
 ## Find and Replace
 ### Wireframe
+![Find and Replace Wireframe](/assignment7/ArmFrame.JPG)
 ### Wireflow
+![Find and Replace Wireflow](/assignment7/ArmFlow.JPG)
 ### Wireflow Testing
+![Find and Replace Testing](/assignment7/ArmUser.JPG)
 User was able to complete the task, but is unsure if they have reached the end-state. The user also wants to rename the survey.
 
 ## Analysis Suggester
 ### Wireframe
+![Analysis Suggester Wireframe](/assignment7/AnalyzeFrame.jpeg)
 ### Wireflow
+![Analysis Suggester Wireflow](/assignment7/AnalyzeFlow.jpeg)
 ### Wireflow Testing
+![Analysis Suggester Testing](/assignment7/AnalyzeUser.JPG)
 User is confused with my home page and wants to begin with "My Surveys" rather than "Anaylze" to analyze an existing survey.
-
+![Analysis Suggester Testing](/assignment7/AnalyzeUser2.JPG)
 User was able to complete the task, but is confused about the end-state.
 
 ## Visualizer
 ### Wireframe
+![Visualizer Wireframe](/assignment7/VisFrame.JPG)
 ### Wireflow
+![Visualizer Wireflow](/assignment7/VisFlow.JPG)
 ### Wireflow Testing
-
+![Visualizer Testing](/assignment7/VisUser.JPG)
 User is confused with my home page and wants to begin with "My Surveys" rather than "Visualize" to begin visualizing an existing survey.
 The user was able to complete this task fairly quickly after getting through the home page confusion.
 
