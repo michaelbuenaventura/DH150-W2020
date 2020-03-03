@@ -8,8 +8,8 @@ My project would generally support research activity done by human-subjects rese
 I want to contribute to the human-subjects research community with this project. Much of research on humans requires data collection via surveys and forms. Creating, distributing, and analyzing these instruments take up a significant amount of time in the research process. Making this process more efficient through app-based distrubition can save both researchers and participants valuable time and energy.
 
 ## Competitor analysis
-### [Fulcrum](web.fulcrumapp.com)
-### [QuickTapSurvey](https://www.quicktapsurvey.com/)
+### ![Fulcrum](web.fulcrumapp.com)
+### ![QuickTapSurvey](https://www.quicktapsurvey.com/)
 [Here](https://github.com/michaelbuenaventura/DH150-W2020/edit/master/README-backup.md) are analyses of two leading research apps - Fulcrum and QuickTap Survey.
 
 ## User research
