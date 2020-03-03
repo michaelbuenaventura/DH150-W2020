@@ -8,12 +8,9 @@ familiarizing myself with Figma, determining color schemes and objects, creating
 the interactive prototype are to better visualize information flow and interactivity and to test the interactivity of the app structure. 
 This prototype tests three specific features: Find & Replace, Data Analyzer, and Data Visualizer.
 ### Tasks:
-1. Find and Replace
-*Create a new arm of the Car Survey. For every instance of "car" replace it with "motorcycle".
-2. Data Analyzer
-*Conduct a one-way ANOVA on the Car Survey. Find and interpret the p-value.
-3. Data Visualizer
-*Create a pie chart of the Car Survey to depict the distribution of car models. Send the chart to your email.
+1. Find and Replace: Create a new arm of the Car Survey. For every instance of "car" replace it with "motorcycle".
+2. Data Analyzer: Conduct a one-way ANOVA on the Car Survey. Find and interpret the p-value.
+3. Data Visualizer: Create a pie chart of the Car Survey to depict the distribution of car models. Send the chart to your email.
 
 ## Graphic Design
 
