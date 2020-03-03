@@ -16,7 +16,7 @@ This prototype tests three specific features: Find & Replace, Data Analyzer, and
 
 ### Color Scheme
 
-Image 1
+![Color Scheme](/assignment08/Home.jpeg)
 
 Both accessibility and subject-relevance were kept in mind when determining the color scheme. To ensure accessible accommodation, both the
 Chrome accessibility audit and snook.ca were used to determine whether or not color contrasts were appropriate. To find research-relevant colors,
