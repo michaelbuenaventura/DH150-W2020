@@ -9,11 +9,11 @@ the interactive prototype are to better visualize information flow and interacti
 This prototype tests three specific features: Find & Replace, Data Analyzer, and Data Visualizer.
 ### Tasks:
 1. Find and Replace
-Create a new arm of the Car Survey. For every instance of "car" replace it with "motorcycle".
+*Create a new arm of the Car Survey. For every instance of "car" replace it with "motorcycle".
 2. Data Analyzer
-Conduct a one-way ANOVA on the Car Survey. Find and interpret the p-value.
+*Conduct a one-way ANOVA on the Car Survey. Find and interpret the p-value.
 3. Data Visualizer
-Create a pie chart of the Car Survey to depict the distribution of car models. Send the chart to your email.
+*Create a pie chart of the Car Survey to depict the distribution of car models. Send the chart to your email.
 
 ## Graphic Design
 
