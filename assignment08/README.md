@@ -51,3 +51,7 @@ In the hi-fidelity prototype, I made sure to include system status notifications
 
 ### Data Visualizer
 ![Data Visualizer](/assignment08/Visualizer.png)
+
+## Interactive Prototype
+
+### https://www.figma.com/proto/KpF8JPK3sNVmKicdGoNw9g/DH-150-Prototype-DataNet?node-id=28%3A30&scaling=scale-down
