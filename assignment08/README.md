@@ -44,7 +44,7 @@ In the hi-fidelity prototype, I made sure to include system status notifications
 ![Full Flow](/assignment08/FullFlow.png)
 
 ### Find and Replace
-![Find and Replace](/assignment08/FindReplace.png)
+![Find and Replace](/assignment08/FindnReplace.png)
 
 ### Data Analyzer
 ![Data Analyzer](/assignment08/Analyzer.png)
