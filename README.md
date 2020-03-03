@@ -9,7 +9,7 @@ I want to contribute to the human-subjects research community with this project.
 
 ## Competitor analysis
 ### ![Fulcrum](FulcrumSample.jpg) ![QuickTapSurvey](QuickTapSample.jpg)
-|[Here](https://github.com/michaelbuenaventura/DH150-W2020/edit/master/README-backup.md) are analyses of two leading research apps - Fulcrum and QuickTap Survey.
+[Here](https://github.com/michaelbuenaventura/DH150-W2020/edit/master/README-backup.md) are analyses of two leading research apps - Fulcrum and QuickTap Survey.
 
 ## User research
 1. [Here](https://github.com/michaelbuenaventura/DH150-W2020/tree/master/assignment5) is a usability test of QuickTap Survey.
