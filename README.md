@@ -1,10 +1,10 @@
 # DataNet
 ## DH150 UX Design, Michael Buenaventura
 
-## Introduction: a brief information about the project. 
+## Introduction
 My project would generally support research activity done by human-subjects researchers. More specifically, my project aims to streamline the data-collection process by making creating, distributing, answering, and analyzing surveys seamless. The basic need involved is the need to gain insights from humans. The traditional solution to this is manually creating a paper survey and distributing it by hand. This is rather time inefficient. Newer methods involve using applications like Google Forms and Survey Monkey. Multiple apps are typically used to go through the entire data-collection process (Adobe to create an aesthetic survey, MailChimp to email it, voyant to analyze qualitative responses, etc.). This can be improved by providing an all-in-one application.
 
-## Clear design statement: 
+## Design statement
 I want to contribute to the human-subjects research community with this project. Much of research on humans requires data collection via surveys and forms. Creating, distributing, and analyzing these instruments take up a significant amount of time in the research process. Making this process more efficient through app-based distrubition can save both researchers and participants valuable time and energy.
 
 ## Competitor analysis
