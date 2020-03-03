@@ -16,7 +16,7 @@ This prototype tests three specific features: Find & Replace, Data Analyzer, and
 
 ### Color Scheme
 
-![Color Scheme](/assignment08/Home.jpeg)
+![Color Scheme](/assignment08/HomeScreen.png)
 
 Both accessibility and subject-relevance were kept in mind when determining the color scheme. To ensure accessible accommodation, both the
 Chrome accessibility audit and snook.ca were used to determine whether or not color contrasts were appropriate. To find research-relevant colors,
@@ -24,7 +24,8 @@ I found inspiration by searching "research" on Adobe Color.
 
 ### Minimilistic Design
 
-Image 2
+![Graphs](/assignment08/Graphs.png)
+![Options](/assignment08/Options.png)
 
 Instead of flooding screens with text or images, I opted to use simple icons. This is less visually taxing for the user and allows the user to focus
 more on the task at hand.
@@ -34,4 +35,5 @@ more on the task at hand.
 During my lo-fi prototype testing, I ran into 2 major issues: users didn't know when they completed tasks and users couldn't back out of unwanted actions. 
 In the hi-fidelity prototype, I made sure to include system status notifications and plenty back/cancel buttons.
 
-Image 3
+![No Instances](/assignment08/NoInstances.png)
+![Visualization Sent](/assignment08/VisSent.png)
